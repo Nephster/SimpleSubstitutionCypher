@@ -1,1 +1,1 @@
-# SimpleTranspositionCypher
+# SimpleSubstitutionCypher
